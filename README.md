@@ -1,2 +1,1 @@
-# Repaso
-Repaso de prepcourse
+Este proyecto es un repaso de lo aprendido
